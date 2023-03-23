@@ -111,10 +111,10 @@ async def bot_start(event):
                         \nيمكنك التواصل مع ي من خلال هذا البوت"
         buttons = [
             (
-                Button.url("السورس", "https://t.me/FTTUTY"),
+                Button.url("السورس", "https://t.me/source_av"),
                 Button.url(
                     "المطور",
-                    "t.me/FTTUTT1",
+                    "t.me/DIV_MUHAMED",
                 ),
             )
         ]
@@ -122,12 +122,12 @@ async def bot_start(event):
         start_msg = "**اهلا بك عزيزي مالك البوت هذه هي اعدادات البوت الخاصة بك**"
         buttons = [
             [
-                Button.url("• السورس •", "t.me/FTTUTT1"),
+                Button.url("• السورس •", "t.me/source_av"),
                 Button.inline("• الفارات •", data="setting"),
             ],
             [
                 Button.inline("• اوامر البوت •", data="CMDBOT"),
-                Button.inline("• المطور •", data="t.me/FTTUTT1"),
+                Button.inline("• المطور •", data="t.meDIV_MUHAMED"),
             ],
         ]
     try:
@@ -207,7 +207,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو  @FTTUTY""",
+اوامر فارات سورس أفـاتـار  @source_av""",
         buttons=[
             [Button.inline("رجوع", data="namevar")],
         ],
@@ -232,7 +232,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="namevar")],
         ],
@@ -252,7 +252,7 @@ async def varssett(event):
 *يمكنك استخدا الزخرفة او اللغة الانكليزية او العربية الخ..
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="namevar")],
         ],
@@ -281,7 +281,7 @@ async def varssett(event):
 **ملاحظة: يجب اني تقوم بوضع الزخرفة بالترتيب التالي:**
 0123456789
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="namevar")],
         ],
@@ -301,7 +301,7 @@ async def varssett(event):
 *يمكنك استخدا الزخرفة او اللغة الانكليزية او العربية الخ..
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="namevar")],
         ],
@@ -339,7 +339,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="pmvars")],
         ],
@@ -358,7 +358,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="pmvars")],
         ],
@@ -379,7 +379,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="pmvars")],
         ],
@@ -400,7 +400,7 @@ async def varssett(event):
 -بالرد على الصورة المراد استخراج منها الرابط ب  `.تلكراف ميديا`
 
 ملاحظة : **يمكنك استخدام الاوامر في اي دردشة او محادثة**
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="pmvars")],
         ],
@@ -435,7 +435,7 @@ async def varssett(event):
 -بالرد على الصورة المراد استخراج منها الرابط ب  `.تلكراف ميديا`
 
 ملاحظة : **يمكنك استخدام الاوامر في اي دردشة او محادثة**
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="alivevar")],
         ],
@@ -456,7 +456,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="alivevar")],
         ],
@@ -476,7 +476,7 @@ async def varssett(event):
 
 
 ملاحظة : يمكنك استخدام الاوامر في اي دردشة او محادثة
-اوامر فارات سورس سيمو @FTTUTY""",
+اوامر فارات سورس أفـاتـار @source_av""",
         buttons=[
             [Button.inline("رجوع", data="alivevar")],
         ],
