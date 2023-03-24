@@ -77,10 +77,10 @@ async def saves():
         LOGS.info("انضم بجروب السورس  اولا @swad_source")
     except ChannelPrivateError:
         LOGS.critical(
-            "تم حظرك من استخدام سورس أفـاتـار  عليك الأعتذار الى مطور السورس @FTTUTT1"
+            "تم حظرك من استخدام سورس أفـاتـار  عليك الأعتذار الى مطور السورس @DIV_MUHAMED"
         )
     try:
-        await sbb_b(JoinChannelRequest("@DIV_MUHAMED"))
+        await sbb_b(JoinChannelRequest("@source_av"))
     except BaseException:
         pass
     try:
