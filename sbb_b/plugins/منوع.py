@@ -42,7 +42,7 @@ async def _(e):
     except Exception as ex:
         await edit_or_reply(e, f"`{str(ex)}`")
 
-# ================العاب جيبثون=========================
+# ================العاب أفـاتـار=========================
 
 R = [
     "**𓆰**العـاب الاحترافيه** 🎮𓆪 \n"
@@ -65,8 +65,7 @@ R = [
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n"
-    "**-** مطور السورس **⪼ [𐇮 𓂐 𓆩زين𓆪 𖠛🇷🇺 ](t.me/wjj_u)   \n"
-    "**-** مطورة السورس **⪼ [𐇮 𓂐 𓆩كرستين𓆪 𖠛🇷🇺  ](t.me/dr_criss)   "
+    "**-** مطور السورس **⪼ [𐇮 𓂐 ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃  𖠛 ](t.me/DIV_MUHAMED)   "
 ]
 
 @sbb_b.on(admin_cmd(pattern="بلي$"))
