@@ -130,7 +130,7 @@ async def startupmessage():
                 BOTLOG_CHATID,
                 "https://telegra.ph/file/7feab0ed9bcf76d2dae43.jpg",
                 caption="᯽︙ بــوت أفـاتـار يـعـمـل بـنـجـاح  **\n\n**᯽︙ ارسل `.الاوامر` لرؤية اوامر السورس**\n\n**᯽︙ تـحـيـاتـي الـمـبـرمـج محمد",
-                buttons=[(Button.url("الـمـبـرمـجہ سـمـيـر", "https://t.me/DIV_MUHAMED"),)],
+                buttons=[(Button.url("الـمـبـرمـجہ ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃 ", "https://t.me/DIV_MUHAMED"),)],
             )
     except Exception as e:
         LOGS.error(e)
