@@ -18,7 +18,7 @@ from .utils import (
     verifyLoggerGroup,
 )
 
-LOGS = logging.getLogger("سورس سيمو")
+LOGS = logging.getLogger("سورس أفـاتـار")
 
 cmdhr = Config.COMMAND_HAND_LER
 
@@ -56,7 +56,7 @@ async def startup_process():
     print("تم انتهاء عملية التنصيب بنجاح ")
     print(
         f"لمعرفة اوامر السورس ارسل {cmdhr}الاوامر\
-        \nمجموعة قناة السورس  https://t.me/FTTUTY"
+        \nمجموعة قناة السورس  https://t.me/source_av"
     )
     print("============================================================")
     await verifyLoggerGroup()
