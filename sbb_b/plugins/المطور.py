@@ -24,7 +24,7 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
                 [
                     Button.url("ㅤ𓏺 ძᥱ᥎ ꧑᥆Ꮒᥲ️꧑ᥱძ . 🕷 ˼", "https://t.me/DIV_MUHAMED"),
                     Button.url("𓏺  〝𝘼𝙑⍢⃝𝙎𝙊𝙐𝙍𝘾𝞝〞. 🕷 ˼", "https://t.me/source_av"),
-                    Button.url("ㅤ𓏺 H᥆ꪝ T᥆ Bᥱ Cᥣ᥆ꪝꪀ . 🕷 ˼ ", "t.me/S_325"),
+                    Button.url("ㅤ𓏺 H᥆ꪝ T᥆ Bᥱ Cᥣ᥆ꪝꪀ . 🕷 ˼ ", "https://t.me/S_325"),
                     Button.url("𓏺 Ⴆ᥆ƚ ꧑᥆Ꮒᥲ️꧑ᥱძ . 🕷 ˼", "https://t.me/MarchemlloXx_bot"),
                     
                 ]
