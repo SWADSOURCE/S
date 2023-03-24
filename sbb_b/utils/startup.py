@@ -25,7 +25,7 @@ from .pluginmanager import load_module
 from .tools import create_supergroup
 
 ENV = bool(os.environ.get("ENV", False))
-LOGS = logging.getLogger("اعداد سيمو")
+LOGS = logging.getLogger("اعداد أفـاتـار")
 cmdhr = Config.COMMAND_HAND_LER
 
 if ENV:
@@ -70,29 +70,29 @@ async def saves():
     except Exception as e:
         print(str(e))
     try:
-        await sbb_b(JoinChannelRequest("@FTTUTT1"))
+        await sbb_b(JoinChannelRequest("@source_av"))
     except BotMethodInvalidError:
         pass
     except ChannelsTooMuchError:
-        LOGS.info("انضم بجروب السورس  اولا @FTTUTT0")
+        LOGS.info("انضم بجروب السورس  اولا @swad_source")
     except ChannelPrivateError:
         LOGS.critical(
-            "تم حظرك من استخدام سورس سيمو  عليك الأعتذار الى مطور السورس @FTTUTT1"
+            "تم حظرك من استخدام سورس أفـاتـار  عليك الأعتذار الى مطور السورس @FTTUTT1"
         )
     try:
-        await sbb_b(JoinChannelRequest("@FTTUTT1"))
+        await sbb_b(JoinChannelRequest("@DIV_MUHAMED"))
     except BaseException:
         pass
     try:
-        await sbb_b(JoinChannelRequest("@FTTUTY"))
+        await sbb_b(JoinChannelRequest("@S_325"))
     except BaseException:
         pass
     try:
-        await sbb_b(JoinChannelRequest("@FTTUTT1"))
+        await sbb_b(JoinChannelRequest("@source_av"))
     except BaseException:
         pass
     try:
-        await sbb_b(JoinChannelRequest("@GTTUTT"))
+        await sbb_b(JoinChannelRequest("@S_325"))
     except BaseException:
         pass
 
@@ -103,7 +103,7 @@ async def mybot():
     f"ـ {rz_ment}"
     f"⪼ هذا هو بوت خاص بـ {rz_ment} يمكنك التواصل معه هنا"
     starkbot = await sbb_b.tgbot.get_me()
-    perf = "[ بوت سيمو ]"
+    perf = "[ بوت أفـاتـار ]"
     bot_name = starkbot.first_name
     botname = f"@{starkbot.username}"
     if bot_name.endswith("Assistant"):
@@ -128,9 +128,9 @@ async def startupmessage():
         if BOTLOG:
             Config.JMTHONLOGO = await sbb_b.tgbot.send_file(
                 BOTLOG_CHATID,
-                "https://telegra.ph/file/1d033934ba8ab84145760.jpg",
-                caption="᯽︙ بــوت سيمو يـعـمـل بـنـجـاح  **\n\n**᯽︙ ارسل `.الاوامر` لرؤية اوامر السورس**\n\n**᯽︙ تـحـيـاتـي الـمـبـرمـجہ سـمـيـر",
-                buttons=[(Button.url("الـمـبـرمـجہ سـمـيـر", "https://t.me/DEV_SAMIR"),)],
+                "https://telegra.ph/file/7feab0ed9bcf76d2dae43.jpg",
+                caption="᯽︙ بــوت أفـاتـار يـعـمـل بـنـجـاح  **\n\n**᯽︙ ارسل `.الاوامر` لرؤية اوامر السورس**\n\n**᯽︙ تـحـيـاتـي الـمـبـرمـج محمد",
+                buttons=[(Button.url("الـمـبـرمـجہ سـمـيـر", "https://t.me/DIV_MUHAMED"),)],
             )
     except Exception as e:
         LOGS.error(e)
@@ -273,7 +273,7 @@ async def verifyLoggerGroup():
         descript = "⪼ هذه هي مجموعه الحفظ الخاصه بك لا تحذفها ابدا  𓆰."
         photobt = await sbb_b.upload_file(file="razan/pic/samir2.jpg")
         _, groupid = await create_supergroup(
-            "مجموعة إشعارات سيمو ", sbb_b, Config.TG_BOT_USERNAME, descript, photobt
+            "مجموعة إشعارات  ⤶ .〝𝘼𝙑⍢⃝𝙎𝙊𝙐𝙍𝘾𝞝〞. ", sbb_b, Config.TG_BOT_USERNAME, descript, photobt
         )
         addgvar("PRIVATE_GROUP_BOT_API_ID", groupid)
         print("تم انشاء كروب الحفظ بنجاح")
@@ -298,7 +298,7 @@ async def verifyLoggerGroup():
         descript = "❃ لا تحذف او تغادر المجموعه وظيفتها حفظ رسائل التي تأتي على الخاص"
         photobt = await sbb_b.upload_file(file="razan/pic/samir1.jpg")
         _, groupid = await create_supergroup(
-            "مجموعة تخزين سيمو ", sbb_b, Config.TG_BOT_USERNAME, descript, photobt
+            "مجموعة تخزين  ⤶ .〝𝘼𝙑⍢⃝𝙎𝙊𝙐𝙍𝘾𝞝〞. ", sbb_b, Config.TG_BOT_USERNAME, descript, photobt
         )
         addgvar("PM_LOGGER_GROUP_ID", groupid)
         print("تم عمل الكروب التخزين بنجاح واضافة الفارات اليه.")
