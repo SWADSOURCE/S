@@ -65,7 +65,8 @@ R = [
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n"
-    "**-** مطور السورس **⪼ [𐇮 𓂐 ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃  𖠛 ](t.me/DIV_MUHAMED)   "
+    "**-** مطور السورس **⪼ [𐇮 𓂐 ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃  𖠛 ](t.me/DIV_MUHAMED)   ",
+
 ]
 
 @sbb_b.on(admin_cmd(pattern="بلي$"))
