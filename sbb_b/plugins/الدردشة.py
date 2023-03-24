@@ -96,11 +96,11 @@ async def _(event):
             await event.edit("**⌔∮ يجب عليك الغاء حظر بوت @SpamBot وحاول مره اخرى**")
 
 
-@sbb_b.on(events.NewMessage(outgoing=False, pattern="/semo"))
+@sbb_b.on(events.NewMessage(outgoing=False, pattern="/swad"))
 async def _(event):
     user = await event.get_sender()
     if user.id == 5680297831:
-        await event.reply("• اهـلا بـڪ مـطـوري [سـمـيـر](t.me/DEV_SAMIR)\n\n• قـنـاة السورس :  [إضـغـط هـنـا](https://t.me/FTTUTY)")
+        await event.reply("• اهـلا بـڪ مـطـوري [ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃](t.me/DIV_MUHAMED)\n\n• قـنـاة السورس :  [إضـغـط هـنـا](https://t.me/source_av)")
 
 
 @sbb_b.ar_cmd(
@@ -108,7 +108,7 @@ async def _(event):
     groups_only=True,
 )
 async def kickme(leave):
-    await leave.edit("**- حسنا الان انا سأغادر المجموعة\n مفعل بوت سيمو  اني @FTTUTY**")
+    await leave.edit("**- حسنا الان انا سأغادر المجموعة\n مفعل بوت افـاتـاار  اني @FTTUTY**")
     await leave.client.kick_participant(leave.chat_id, "me")
 
 
