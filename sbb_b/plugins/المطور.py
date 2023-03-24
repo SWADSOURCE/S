@@ -7,7 +7,7 @@ from ..Config import Config
 ROZ_PIC = "https://telegra.ph/file/01854d02b95188145b5cf.jpg"
 RAZAN = Config.TG_BOT_USERNAME
 ROZ_T = (
-    f"** ᯓ𓆩˹ ََ ＳᏔＡＤ،ِّّ⸙⛥َٰ ( ٍّސاމ)⏤‌𓆃 مطور سورس أفـاتـار **\n"
+    f"** مطور سورس أفـاتـار **\n"
   
 )
 
