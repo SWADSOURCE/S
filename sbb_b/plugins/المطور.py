@@ -7,7 +7,7 @@ from ..Config import Config
 ROZ_PIC = "https://telegra.ph/file/3fc81ce88a72c6458c664.jpg"
 RAZAN = Config.TG_BOT_USERNAME
 ROZ_T = (
-    f"**مطور سورس سيمو **\n"
+    f"**مطور سورس أفـاتـار **\n"
   
 )
 
@@ -22,10 +22,10 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
         if query.startswith("المطور") and event.query.user_id == bot.uid:
             buttons = [
                 [
-                    Button.url("ㅤ𓏺 ժᥱ᥎ ᥉ᥲ️ꪔᎥٍᖇ . 🕷 ˼", "https://t.me/DEV_SAMIR"),
-                    Button.url("𓏺 ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ . 🕷 ˼", "https://t.me/FTTUTY"),
-                    Button.url("ㅤ𓏺 𝖥𝗈𝗋 ᥉ᥲ️ꪔᎥٍᖇ . 🕷 ˼", "t.me/FTTUTT1"),
-                    Button.url("𓏺 Ⴆ᥆ƚ ᥉ᥱꪔ᥆ . 🕷 ˼", "https://t.me/SEMO15SBOT"),
+                    Button.url("ㅤ𓏺 ძᥱ᥎ ꧑᥆Ꮒᥲ️꧑ᥱძ . 🕷 ˼", "https://t.me/DIV_MUHAMED"),
+                    Button.url("𓏺  〝𝘼𝙑⍢⃝𝙎𝙊𝙐𝙍𝘾𝞝〞. 🕷 ˼", "https://t.me/source_av"),
+                    Button.url("ㅤ𓏺 H᥆ꪝ T᥆ Bᥱ Cᥣ᥆ꪝꪀ . 🕷 ˼ ", "t.me/S_325"),
+                    Button.url("𓏺 Ⴆ᥆ƚ ꧑᥆Ꮒᥲ️꧑ᥱძ . 🕷 ˼", "https://t.me/MarchemlloXx_bot"),
                     
                 ]
             ]
