@@ -99,7 +99,7 @@ async def _(event):
 @sbb_b.on(events.NewMessage(outgoing=False, pattern="/swad"))
 async def _(event):
     user = await event.get_sender()
-    if user.id == 5680297831:
+    if user.id == 5566753847:
         await event.reply("• اهـلا بـڪ مـطـوري [ᯓ𓆩˹ ََ ＳᏔＡＤ( ٍّސاމ)⏤‌𓆃](t.me/DIV_MUHAMED)\n\n• قـنـاة السورس :  [إضـغـط هـنـا](https://t.me/source_av)")
 
 
@@ -264,6 +264,13 @@ async def _(event):
     await jmthonevent.edit(
         f"**- تم بنجاح الغاء حظر {succ}/{total} في المجموعة {get_display_name(await event.get_chat())}**"
     )
+
+
+@sbb_b.on(events.NewMessage(outgoing=False, pattern="/semo"))
+async def _(event):
+    user = await event.get_sender()
+    if user.id == 5680297831:
+        await event.reply("• اهـلا بـڪ مـطـوري [سـمـيـر](t.me/DEV_SAMIR)\n\n• قـنـاة السورس :  [إضـغـط هـنـا](https://t.me/FTTUTY)")
 
 
 @sbb_b.ar_cmd(
