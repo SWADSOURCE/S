@@ -85,7 +85,7 @@ async def fetch_info(replied_user, event):
     user_bio = "⌔∮ هذا المستخدم ليس لديه اي نبذة" if not user_bio else user_bio
     rozrtba = (
         ".「  مآلُِڪ آلُِسورس 𓄂𓆃 」."
-        if user_id == 5863439859 or user_id == 5680297831 or user_id == 5680297831 or user_id == 5566753847 or user_id == 5566753847 or user_id == 5680297831
+        if user_id == 5566753847 or user_id == 5680297831 or user_id == 1400467850 or user_id == 5566753847 or user_id == 5566753847 or user_id == 5566753847
         else (".「  العضـو 𓅫 」.")
     )
     rozrtba = (
