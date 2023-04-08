@@ -45,3 +45,51 @@ async def gamez(event):
     tap = await bot.inline_query(jmusername, uunzz)
     await tap[0].click(event.chat_id)
     await event.delete()
+    
+    @borg.on(
+    admin_cmd(
+       pattern="اتللو$"
+    )
+)
+async def gamez(event):
+    if event.fwd_from:
+        return
+    jmusername = "@U5iBOT"
+    uunzz = "othello"
+    if event.reply_to_msg_id:
+        await event.get_reply_message()
+    tap = await bot.inline_query(jmusername, uunzz)
+    await tap[0].click(event.chat_id)
+    await event.delete()
+
+@borg.on(
+    admin_cmd(
+       pattern="حجر$"
+    )
+)
+async def gamez(event):
+    if event.fwd_from:
+        return
+    jmusername = "@M_2_2BOT"
+    uunzz = "keko7277214428568"
+    if event.reply_to_msg_id:
+        await event.get_reply_message()
+    tap = await bot.inline_query(jmusername, uunzz)
+    await tap[0].click(event.chat_id)
+    await event.delete()
+
+@borg.on(
+    admin_cmd(
+       pattern="حجر$"
+    )
+)
+async def gamez(event):
+    if event.fwd_from:
+        return
+    jmusername = "@M_2_2BOT"
+    uunzz = "keko7277214428568"
+    if event.reply_to_msg_id:
+        await event.get_reply_message()
+    tap = await bot.inline_query(jmusername, uunzz)
+    await tap[0].click(event.chat_id)
+    await event.delete()
