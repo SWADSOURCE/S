@@ -46,9 +46,9 @@ async def gamez(event):
     await tap[0].click(event.chat_id)
     await event.delete()
     
-    @borg.on(
+@borg.on(
     admin_cmd(
-       pattern="اتللو$"
+       pattern="ريفرسي$"
     )
 )
 async def gamez(event):
@@ -64,7 +64,7 @@ async def gamez(event):
 
 @borg.on(
     admin_cmd(
-       pattern="حجر$"
+       pattern="حجر ورقة مقص$"
     )
 )
 async def gamez(event):
@@ -80,7 +80,7 @@ async def gamez(event):
 
 @borg.on(
     admin_cmd(
-       pattern="حجر$"
+       pattern="حجر ورقه مقص$"
     )
 )
 async def gamez(event):
