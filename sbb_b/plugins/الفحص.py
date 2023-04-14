@@ -72,9 +72,9 @@ async def amireallyalive(event):
 
 temp = """{ALIVE_TEXT}
 **{EMOJI} قاعدة البيانات :** `{dbhealth}`
-**{EMOJI} اصدار التيليثون:** `{telever}`
+**{EMOJI} اصدار أفـاتـار:** `{telever}`
 **{EMOJI} اصدار أفـاتـار  :** `{jmver}`
-**{EMOJI} اصدار البايثون :** `{pyver}`
+**{EMOJI} اصدار أفـاتـار :** `{pyver}`
 **{EMOJI} الوقت :** `{uptime}`
 **{EMOJI} المالك:** {mention}"""
 
@@ -82,9 +82,9 @@ temp = """{ALIVE_TEXT}
 def jmthonalive_text():
     EMOJI = gvarstatus("ALIVE_EMOJI") or "  ✥ "
     jmthon_caption = "**سورس افاتار يعمل بنجاح**\n"
-    jmthon_caption += f"**{EMOJI} اصدار التيليثون :** `{version.__version__}\n`"
+    jmthon_caption += f"**{EMOJI} اصدار أفـاتـار :** `{version.__version__}\n`"
     jmthon_caption += f"**{EMOJI} اصدار افاتار :** `{jmthonversion}`\n"
-    jmthon_caption += f"**{EMOJI} اصدار البايثون :** `{python_version()}\n`"
+    jmthon_caption += f"**{EMOJI} اصدار أفـاتـار :** `{python_version()}\n`"
     jmthon_caption += f"**{EMOJI} المالك:** {mention}\n"
     return jmthon_caption
 
@@ -99,7 +99,7 @@ async def repo(event):
     await event.delete()
 
 
-ROZ_PIC = "https://telegra.ph/file/2e5a217074c28d4a14cf6.mp4"
+ROZ_PIC = "https://telegra.ph/file/b4bd911a3acc88df1b7dc.mp4"
 RAZAN = Config.TG_BOT_USERNAME
 ROZ_T = (
     f"**⌯︙بوت أفـاتـار يعمل بنجاح 🤍،**\n"
