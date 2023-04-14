@@ -1,5 +1,5 @@
 """ 
-CC Visa @FTTUTY
+CC Visa @source_av
 
 """
 
@@ -41,7 +41,7 @@ async def song2(event):
 async def song2(event):
     chat = "@SDBB_Bot"
     reply_id_ = await reply_id(event)
-    tep = await edit_or_reply(event, "**- جـارِ تولـيد بن 𝚅𝙸𝚂𝙴💲...**")
+    tep = await edit_or_reply(event, "**- جـارِ تولـيد بن 𝚅𝙸𝚂𝙴 💸...**")
     async with event.client.conversation(chat) as conv:
         try:
             await conv.send_message("/gen 547292000038xxxx|RND|RND|RND")
