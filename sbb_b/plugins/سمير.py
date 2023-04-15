@@ -28,10 +28,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
-    if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 5566753847:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -46,10 +46,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -64,10 +64,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -82,10 +82,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -100,10 +100,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -118,10 +118,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -136,10 +136,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -154,10 +154,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده في قلب الجميع 🙄 **")
-    if user.id == 6085251582:
+    if user.id == 1400467850:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده في قلب الجميع 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f""**- اسكت يمتخلف ده في قلب الجميع 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -172,10 +172,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -190,10 +190,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -208,10 +208,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -226,10 +226,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -244,10 +244,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
@@ -262,10 +262,10 @@ async def permalink(mention):
         return
     if user.id == 5680297831:
         return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄 **")
-    if user.id == 6085251582:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+    if user.id == 1400467850:
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور كينج 🙄**")
     if user.id == 5957205447:
-        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور سمير 🙄**")
+        return await edit_or_reply(mention, f"**- اسكت يمتخلف ده المطور محمد 🙄**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     await edit_or_reply(
         mention,
