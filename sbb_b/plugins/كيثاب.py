@@ -24,7 +24,7 @@ GIT_TEMP_DIR = "./temp/"
 
 
 @sbb_b.ar_cmd(
-    pattern="سيمو$",
+    pattern="افاتار$",
     command=("repo", plugin_category),
     info={
         "header": "Source code link of sbb_b",
@@ -34,11 +34,11 @@ GIT_TEMP_DIR = "./temp/"
     },
 )
 async def source(e):
-    "سورس سيمو"
+    "سورس افاتار"
     await edit_or_reply(
         e,
-        "اضغط [هنا](t.me/FTTUTY) لفتح قناة السورس\
-        \nاضغط [هنا](t.me/FTTUTT0) جروب الدعم",
+        "اضغط [هنا](t.me/source_av) لفتح قناة السورس\
+        \nاضغط [هنا](t.me/va_source) جروب الدعم",
     )
 
 
